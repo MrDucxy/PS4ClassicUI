@@ -2,8 +2,8 @@
 A WIP project to restore the pre-4.00 UI on the PS4 for jailbroken consoles.
 
 ## Checklist
- - [ ] [IN PROGRESS] General UI Elements (Hover, Checkboxes, Loading Bars, Buttons, Etc.)
- - [ ] Icons (System app icons and other misc. icons)
+ - [ ] General UI Elements (Hover, Checkboxes, Loading Bars, Buttons, Etc.)
+ - [ ] [IN PROGRESS] Icons (System app icons and other misc. icons)
  - [ ] [IN PROGRESS] Background Wave 
  - [ ] Various UI Animations (Loading Animation, Etc.)
 
