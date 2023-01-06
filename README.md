@@ -10,7 +10,6 @@ Note: This targets people using 1080p or lower resolution. Using 4K resolution o
  - [ ] Hover Amimation 
  - [ ] Progress Bar
  - [ ] Buttons
- - [ ] List Background (pop out side menu)
  - [ ] Etc. (lots more that i didnt list lol)
   #### Icons
  - [X] System App Icons
