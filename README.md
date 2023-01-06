@@ -2,7 +2,7 @@
 # PS4ClassicUI
 A WIP project to restore the pre-4.00 UI on the PS4 for jailbroken consoles.
 
-Note: This targets people using 1080p or lower resolution. Using 4K resolution on a PS4 Pro may cause crashes or missing assets.
+Note: This targets people using 1080p or lower resolution. Using 4K resolution on a PS4 Pro may cause crashes or missing assets. (4k isnt prioritized, but will come eventually)
 
 ## Checklist
  #### General UI Elements
