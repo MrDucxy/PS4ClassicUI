@@ -7,7 +7,7 @@ Note: This targets people using 1080p or lower resolution. Using 4K resolution o
 ## Checklist
  #### General UI Elements
  - [X] Notification Background
- - [ ] Checkbox 
+ - [ ] Hover Amimation 
  - [ ] Progress Bar
  - [ ] Button Hover
  - [ ] List Background (pop out side menu)
