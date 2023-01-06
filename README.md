@@ -13,6 +13,7 @@ Note: This targets people using 1080p or lower resolution. Using 4K resolution o
  - [ ] Etc. (lots more that i didnt list lol)
   #### Icons
  - [X] System App Icons
+ - [X] User Guide Icon (Settings)
  - [ ] Misc. Icons (if any have changed)
 
 ## Contribute
