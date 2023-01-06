@@ -9,7 +9,7 @@ Note: This targets people using 1080p or lower resolution. Using 4K resolution o
  - [X] Notification Background
  - [ ] Hover Amimation 
  - [ ] Progress Bar
- - [ ] Button Hover
+ - [ ] Buttons
  - [ ] List Background (pop out side menu)
  - [ ] Etc. (lots more that i didnt list lol)
   #### Icons
